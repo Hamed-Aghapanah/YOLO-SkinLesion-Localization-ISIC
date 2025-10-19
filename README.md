@@ -45,14 +45,21 @@ Outputs will be stored under `YOLO_output/` including dataset splits, model resu
 
 ---
 
+
 ## 5) Example Images
+
+### Training Curves
 ![Training Curves](images/results.png)
-![Sample 1](images/ISIC_0000177.jpg)
-![Sample 2](images/ISIC_0000360.jpg)
-![Sample 3](images/ISIC_0009930.jpg)
-![Train Batch](images/train_batch0.jpg)
-![Validation Labels](images/val_batch1_labels.jpg)
-![Validation Predictions](images/val_batch2_pred.jpg)
+
+### Sample Detections (YOLOv11n)
+| ![Sample 1](images/ISIC_0000177.jpg) | ![Sample 2](images/ISIC_0000360.jpg) | ![Sample 3](images/ISIC_0009930.jpg) |
+|:--:|:--:|:--:|
+| *ISIC_0000177* | *ISIC_0000360* | *ISIC_0009930* |
+
+### Dataset Visualization
+| ![Train Batch](images/train_batch0.jpg) | ![Validation Labels](images/val_batch1_labels.jpg) | ![Validation Predictions](images/val_batch2_pred.jpg) |
+|:--:|:--:|:--:|
+| *Train Batch* | *Val Labels* | *Val Predictions* |
 
 ---
 
